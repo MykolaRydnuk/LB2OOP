@@ -12,3 +12,17 @@ C:\Users\goodw\source\repos\v-ivanenko\ConsoleAppRestaurantTableReservationManag
 C:\Users\goodw\source\repos\v-ivanenko\ConsoleAppRestaurantTableReservationManager\obj\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.pdb
 C:\Users\goodw\source\repos\v-ivanenko\ConsoleAppRestaurantTableReservationManager\obj\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.genruntimeconfig.cache
 C:\Users\goodw\source\repos\v-ivanenko\ConsoleAppRestaurantTableReservationManager\obj\Debug\net7.0\ref\ConsoleAppRestaurantTableReservationManager.dll
+C:\Users\kazmur\Desktop\OOP_Maks_two\Refactoring\LB2OOP\ConsoleAppRestaurantTableReservationManager\bin\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.exe
+C:\Users\kazmur\Desktop\OOP_Maks_two\Refactoring\LB2OOP\ConsoleAppRestaurantTableReservationManager\bin\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.deps.json
+C:\Users\kazmur\Desktop\OOP_Maks_two\Refactoring\LB2OOP\ConsoleAppRestaurantTableReservationManager\bin\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.runtimeconfig.json
+C:\Users\kazmur\Desktop\OOP_Maks_two\Refactoring\LB2OOP\ConsoleAppRestaurantTableReservationManager\bin\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.dll
+C:\Users\kazmur\Desktop\OOP_Maks_two\Refactoring\LB2OOP\ConsoleAppRestaurantTableReservationManager\bin\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.pdb
+C:\Users\kazmur\Desktop\OOP_Maks_two\Refactoring\LB2OOP\ConsoleAppRestaurantTableReservationManager\obj\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kazmur\Desktop\OOP_Maks_two\Refactoring\LB2OOP\ConsoleAppRestaurantTableReservationManager\obj\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.AssemblyInfoInputs.cache
+C:\Users\kazmur\Desktop\OOP_Maks_two\Refactoring\LB2OOP\ConsoleAppRestaurantTableReservationManager\obj\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.AssemblyInfo.cs
+C:\Users\kazmur\Desktop\OOP_Maks_two\Refactoring\LB2OOP\ConsoleAppRestaurantTableReservationManager\obj\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.csproj.CoreCompileInputs.cache
+C:\Users\kazmur\Desktop\OOP_Maks_two\Refactoring\LB2OOP\ConsoleAppRestaurantTableReservationManager\obj\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.dll
+C:\Users\kazmur\Desktop\OOP_Maks_two\Refactoring\LB2OOP\ConsoleAppRestaurantTableReservationManager\obj\Debug\net7.0\refint\ConsoleAppRestaurantTableReservationManager.dll
+C:\Users\kazmur\Desktop\OOP_Maks_two\Refactoring\LB2OOP\ConsoleAppRestaurantTableReservationManager\obj\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.pdb
+C:\Users\kazmur\Desktop\OOP_Maks_two\Refactoring\LB2OOP\ConsoleAppRestaurantTableReservationManager\obj\Debug\net7.0\ConsoleAppRestaurantTableReservationManager.genruntimeconfig.cache
+C:\Users\kazmur\Desktop\OOP_Maks_two\Refactoring\LB2OOP\ConsoleAppRestaurantTableReservationManager\obj\Debug\net7.0\ref\ConsoleAppRestaurantTableReservationManager.dll
