@@ -149,34 +149,27 @@ public class Restaurant
 
 public class RestaurantTable
 {
-    private List<DateTime> bookdate;
-
+    private HashSet<DateTime> bookedDates;
 
     public RestaurantTable()
     {
-        bookdate = new List<DateTime>();
+        bookedDates = new HashSet<DateTime>();
     }
 
-    public bool Book(DateTime d)
+    public bool Book(DateTime date)
     {
-        try
-        { 
-            if (bookdate.Contains(d))
-            {
-                return false;
-            }
-            bookdate.Add(d);
-            return true;
-        }
-        catch (Exception ex)
+        if (bookedDates.Contains(date))
         {
-            Console.WriteLine("Error Book");
             return false;
         }
+
+        bookedDates.Add(date);
+        return true;
     }
 
-    public bool IsBooked(DateTime d)
+    public bool IsBooked(DateTime date)
     {
-        return bookdate.Contains(d);
+        return bookedDates.Contains(date);
     }
 }
+
