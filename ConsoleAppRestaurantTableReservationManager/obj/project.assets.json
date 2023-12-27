@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\goodw\\.nuget\\packages\\": {},
-    "D:\\VS\\Shared\\NuGetPackages": {}
+    "C:\\Users\\kazmur\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\goodw\\source\\repos\\v-ivanenko\\ConsoleAppRestaurantTableReservationManager\\ConsoleAppRestaurantTableReservationManager.csproj",
+      "projectUniqueName": "C:\\Users\\kazmur\\Desktop\\OOP_Maks_two\\Refactoring\\LB2OOP\\ConsoleAppRestaurantTableReservationManager\\ConsoleAppRestaurantTableReservationManager.csproj",
       "projectName": "ConsoleAppRestaurantTableReservationManager",
-      "projectPath": "C:\\Users\\goodw\\source\\repos\\v-ivanenko\\ConsoleAppRestaurantTableReservationManager\\ConsoleAppRestaurantTableReservationManager.csproj",
-      "packagesPath": "C:\\Users\\goodw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\goodw\\source\\repos\\v-ivanenko\\ConsoleAppRestaurantTableReservationManager\\obj\\",
+      "projectPath": "C:\\Users\\kazmur\\Desktop\\OOP_Maks_two\\Refactoring\\LB2OOP\\ConsoleAppRestaurantTableReservationManager\\ConsoleAppRestaurantTableReservationManager.csproj",
+      "packagesPath": "C:\\Users\\kazmur\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kazmur\\Desktop\\OOP_Maks_two\\Refactoring\\LB2OOP\\ConsoleAppRestaurantTableReservationManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\VS\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\goodw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kazmur\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
